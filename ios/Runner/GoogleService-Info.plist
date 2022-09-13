@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1068016566165-uouvl1n1uanj03n2v67tjsv5asuvb09c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1068016566165-uouvl1n1uanj03n2v67tjsv5asuvb09c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1068016566165-2femsaif45la50esv6phsj786c3hssjf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9Z_gZLmcOdkCyz2anXvq0N7XGApyQQ_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1068016566165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sunandmooncurse.mooncurse</string>
+	<key>PROJECT_ID</key>
+	<string>moon-sun-curse</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moon-sun-curse.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1068016566165:ios:44d05dd6051e509f1c009c</string>
+	<key>DATABASE_URL</key>
+	<string>https://moon-sun-curse.firebaseio.com</string>
+</dict>
+</plist>

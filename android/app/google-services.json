@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068016566165",
+    "firebase_url": "https://moon-sun-curse.firebaseio.com",
+    "project_id": "moon-sun-curse",
+    "storage_bucket": "moon-sun-curse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068016566165:android:0f33053518479e0b1c009c",
+        "android_client_info": {
+          "package_name": "com.sunandmooncurse.mooncurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068016566165-iu3m12mpp177di8g7r79dbs0ubhnmct7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunandmooncurse.mooncurse",
+            "certificate_hash": "a698659600ccc55a7d3f77ba4536dee4d05ffc10"
+          }
+        },
+        {
+          "client_id": "1068016566165-jqeeea5kvdpsn1u9k32jm9uqkqt5unvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWhYeNvTqcgF_qNAZXZA5R3VAdhxqY7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068016566165-jqeeea5kvdpsn1u9k32jm9uqkqt5unvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068016566165-8nh8j3ko0n0ns0t88r5m3t2bp5i3ais8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunandmooncurse.suncurse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

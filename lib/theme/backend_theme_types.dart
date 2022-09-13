@@ -1,0 +1,4 @@
+enum BackendThemeType {
+  MOCK,
+  HIVE,
+}
