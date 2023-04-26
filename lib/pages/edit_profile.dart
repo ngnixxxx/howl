@@ -208,7 +208,7 @@ class _EditProfileStatePage extends State<EditProfilePage> {
   }
 
   _imageCrop(File imageFile) async {
-    File croppedImage = await ImageCropper.cropImage(
+    File croppedImage = await ImageCropper().cropImage(
         sourcePath: imageFile.path,
         aspectRatio: CropAspectRatio(ratioX: 1.0, ratioY: 1.0),
         cropStyle: CropStyle.circle,

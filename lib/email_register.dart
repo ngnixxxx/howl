@@ -18,8 +18,8 @@ class _EmailSignUpState extends State<EmailSignUp> {
   bool submitting = false;
   static String _email, _password, _username;
 
-  AuthMethods _authMethods = AuthMethods();
-  FirebaseMethods _firebaseMethods = FirebaseMethods();
+  final AuthMethods _authMethods = AuthMethods();
+  final FirebaseMethods _firebaseMethods = FirebaseMethods();
 
   final _formKey = GlobalKey<FormState>();
 
